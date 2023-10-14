@@ -54,3 +54,9 @@ margin: 0;
     color:beige;
     background-color: rgb(37, 37, 37); 
 }
+
+@media screen and (max-width: 800px) {
+    .content, .sidebar{
+        width: 100%;
+    }
+}
