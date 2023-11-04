@@ -32,10 +32,7 @@
     <textarea name="message" id="message" placeholder="Enter the message" rows="10" required></textarea><br><br>
 
     <input type="submit" name="send_message" value="Send Message" />
-
 </form>
-
-
 
     </div>
     <div class="sidebar">
