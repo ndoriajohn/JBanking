@@ -26,7 +26,7 @@
     <input type="email" name="receiver_email" id="receiver_email" placeholder="Enter the receiver Email" maxlength="60" /><br><br>
 
     <label for="subject">Subject:</label><br>
-    <input type="email" name="subject" id="subject" placeholder="Enter the subject" maxlength="160" required /><br><br>
+    <input type="text" name="subject" id="subject" placeholder="Enter the subject" maxlength="160" required /><br><br>
 
     <label for="message">Message:</label><br>
     <textarea name="message" id="message" placeholder="Enter the message" rows="10" required></textarea><br><br>
