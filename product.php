@@ -8,20 +8,10 @@
 </head>
 <body>
     <!-- top navigation starts here -->
-    <div class="topnav">
-        <a href="./">Home</a>
-        <a href="about.html">About</a>
-        <a href="contact.html">Contact</a>
-        <a href="product.html">Products</a>
-        
-        <div class="topnav-right">
-            <a href="signup.html">Sign Up</a>
-            <a href="signin.html">Sign In</a>
-        </div>
-    </div>
+    <?php require "includes/navigation.php"; ?>
     <!-- top navigation ends here -->
 <div class="header">
-    <h1>Talk to Us</h1>
+    <h1>About</h1>
 </div>
 <!-- the main content section starts here -->
 <div class="row">
