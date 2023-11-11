@@ -1,3 +1,4 @@
-@import url(StructureStyle.css);
-@import url(ContentStyle.css);
-@import url(FormStyle.css);
+@import url('https://getbootstrap.com/docs/5.3/dist/css/bootstrap.min.css');
+@import url('StructureStyle.css');
+@import url('ContentStyle.css');
+@import url('FormStyle.css');

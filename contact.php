@@ -18,7 +18,7 @@
     <div class="content">
 <h3>Main content</h3>
 
-<form action="" method="POST">
+<form action="processes/messages_proc.php" method="POST">
     <label for="sender_email">Sender Email:</label><br>
     <input type="text" name="sender_email" id="sender_email" placeholder="Enter the sender Email" maxlength="60" required /><br><br>
 
